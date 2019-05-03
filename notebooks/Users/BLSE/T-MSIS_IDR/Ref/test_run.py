@@ -6,3 +6,7 @@ print(x)
 
 # MAGIC %scala
 # MAGIC dbutils.notebook.exit("SUCCESS")
+
+# COMMAND ----------
+
+x = 7
